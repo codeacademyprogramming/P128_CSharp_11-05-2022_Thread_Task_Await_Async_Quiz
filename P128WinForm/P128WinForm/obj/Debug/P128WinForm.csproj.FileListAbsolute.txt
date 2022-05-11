@@ -1,0 +1,10 @@
+C:\Users\hamid.mammadov\source\repos\P128WinForm\P128WinForm\bin\Debug\P128WinForm.exe.config
+C:\Users\hamid.mammadov\source\repos\P128WinForm\P128WinForm\bin\Debug\P128WinForm.exe
+C:\Users\hamid.mammadov\source\repos\P128WinForm\P128WinForm\bin\Debug\P128WinForm.pdb
+C:\Users\hamid.mammadov\source\repos\P128WinForm\P128WinForm\obj\Debug\P128WinForm.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\source\repos\P128WinForm\P128WinForm\obj\Debug\P128WinForm.Properties.Resources.resources
+C:\Users\hamid.mammadov\source\repos\P128WinForm\P128WinForm\obj\Debug\P128WinForm.csproj.GenerateResource.cache
+C:\Users\hamid.mammadov\source\repos\P128WinForm\P128WinForm\obj\Debug\P128WinForm.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\source\repos\P128WinForm\P128WinForm\obj\Debug\P128WinForm.exe
+C:\Users\hamid.mammadov\source\repos\P128WinForm\P128WinForm\obj\Debug\P128WinForm.pdb
+C:\Users\hamid.mammadov\source\repos\P128WinForm\P128WinForm\obj\Debug\P128WinForm.Form1.resources

@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P128Thread\P128Thread\bin\Debug\netcoreapp3.1\P128Thread.exe
+C:\Users\hamid.mammadov\Desktop\P128Thread\P128Thread\bin\Debug\netcoreapp3.1\P128Thread.deps.json
+C:\Users\hamid.mammadov\Desktop\P128Thread\P128Thread\bin\Debug\netcoreapp3.1\P128Thread.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P128Thread\P128Thread\bin\Debug\netcoreapp3.1\P128Thread.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P128Thread\P128Thread\bin\Debug\netcoreapp3.1\P128Thread.dll
+C:\Users\hamid.mammadov\Desktop\P128Thread\P128Thread\bin\Debug\netcoreapp3.1\P128Thread.pdb
+C:\Users\hamid.mammadov\Desktop\P128Thread\P128Thread\obj\Debug\netcoreapp3.1\P128Thread.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P128Thread\P128Thread\obj\Debug\netcoreapp3.1\P128Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P128Thread\P128Thread\obj\Debug\netcoreapp3.1\P128Thread.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P128Thread\P128Thread\obj\Debug\netcoreapp3.1\P128Thread.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P128Thread\P128Thread\obj\Debug\netcoreapp3.1\P128Thread.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P128Thread\P128Thread\obj\Debug\netcoreapp3.1\P128Thread.dll
+C:\Users\hamid.mammadov\Desktop\P128Thread\P128Thread\obj\Debug\netcoreapp3.1\P128Thread.pdb
+C:\Users\hamid.mammadov\Desktop\P128Thread\P128Thread\obj\Debug\netcoreapp3.1\P128Thread.genruntimeconfig.cache
